@@ -1,0 +1,64 @@
+{
+    "Passos": [
+        {
+            "Passo" : "Passo 1 - Posicione o Gabinete na bancada.",
+            "Objetos": [
+                "Gabinete"               
+            ]
+        },
+        {
+            "Passo" : "Passo 2 - Posicione a Placa Mãe no Gabinte.;",
+            "Objetos": [
+                "PlacaMae"
+            ]
+        },
+        {
+            "Passo" : "Passo 3 - Instale o processador na placa mãe.",
+            "Objetos": [
+                "CPU"                
+            ]
+        },
+        {
+            "Passo" : "Passo 4 - Instale o Cooler do processador.",
+            "Objetos": [
+                "CPUFan"                
+            ]
+        },
+        {
+            "Passo" : "Passo 5 - Instale as memórias RAM.",
+            "Objetos": [
+                "RAM1",
+                "RAM2",
+                "RAM3",
+                "RAM4"                
+            ]
+        },
+        {
+            "Passo" : "Passo 6 - Instale a Placa de Video.",
+            "Objetos": [
+                "PlacaDeVideo"              
+            ]
+        },
+        {
+            "Passo" : "Passo 7 - Instale a Fonte.",
+            "Objetos": [
+                "Fonte"               
+            ]
+        },
+        {
+            "Passo" : "Passo 8 - Instale o Fan do Gabinete.",
+            "Objetos": [
+                "Fan"              
+            ]
+        },
+        {
+            "Passo" : "PARABÉNS! VOCÊ ACABA DE APRENDER COMO MONTAR UM COMPUTADOR!!",
+            "Objetos": [
+                              
+            ]
+        }
+        
+        
+    ]
+   
+}

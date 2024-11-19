@@ -1,0 +1,30 @@
+{
+    "Passos": [
+        {
+            "Passo" : "Passo 1 - Encaixe os botões laterais",
+            "Objetos": [
+                "Big Buttons.001"
+                
+            ]
+        },
+        {
+            "Passo" : "Passo 2 - Encaixe os botões centrais",
+            "Objetos": [
+                "Small Buttons.001"                
+            ]
+        },
+        {
+            "Passo" : "Passo 3 - Encaixe o chassi",
+            "Objetos": [
+                "Chassis.001"                
+            ]
+        },
+        {
+            "Passo" : "Passo 3 - Você terminou a montagem",
+            "Objetos": [               
+            ]
+        }
+        
+    ]
+   
+}

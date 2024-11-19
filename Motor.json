@@ -1,0 +1,20 @@
+{
+    "Passos": [
+        {
+            "Passo" : "Passo 1 - Colocar a tampa e alinhar a placa e o anel",
+            "Objetos": [
+                "Lid1",
+                "Plate",
+                "Ring"
+            ]
+        },
+        {
+            "Passo" : "Passo 2 - Modificar o pistão",
+            "Objetos": [
+                "Piston"                
+            ]
+        }
+        
+    ]
+   
+}
